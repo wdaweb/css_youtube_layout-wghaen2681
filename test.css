@@ -1,22 +1,8 @@
-body {
-  background: lightgoldenrodyellow;
-  margin: 0px;
-}
-
-#main {
-  /* width: 814px; */
-  height: 712px;
-  overflow-x: hidden;
-  background: white;
-}
-
 body table td {
-  width: 201.5px;
   height: 215px;
 }
 
 .container {
-  width: 197.5px;
   height: 215px;
   position: relative;
 }
@@ -28,8 +14,8 @@ body table td {
 .watchLater {
   position: absolute;
   font-size: 135%;
-  left: 158px;
-  top: -9px;
+  left: 164px;
+  top: -6px;
   transform: translate(50%, 50%);
 }
 
@@ -46,9 +32,9 @@ body table td {
 }
 
 .thumbnail {
-  width: 191.5px;
+  width: 197.5px;
   height: 117.09px;
-  margin: 7px 2px;
+  margin: 7px 3px;
   background-size: cover;
   background-position: center;
 }
